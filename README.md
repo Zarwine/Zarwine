@@ -1,6 +1,8 @@
 # Bienvenue sur mon Github 👋
-Je m'appelle Jonathan, j'ai 30 ans et cela va faire plus d'un an maintenant que je me penche très sérieusement sur le développement web. En septembre l'an passé ( 2019 ), j'ai eut la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde ! 
+Je m'appelle Jonathan, j'ai 30 ans et cela va faire plus d'un an maintenant que je me penche très sérieusement sur le développement web. En septembre l'an passé (2019), j'ai eu la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde ! 
 A vrai dire, j'envisageais déjà ma reconversion depuis longtemps, je n'en avais juste pas les moyens.
+
+---
 
 ## Mon parcours
 J'ai donc attaqué avec une formation OpenClassrooms, c'était d'ailleurs la seule accessible. Accompagné par un mentor, j'y ai appris les bases de la programmation et y ai réalisé les projets suivant :
@@ -24,16 +26,21 @@ J'ai donc attaqué avec une formation OpenClassrooms, c'était d'ailleurs la seu
 C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moche 😄 ! Mais n'oublions pas que ce sont mes premiers pas et ce qui nous intéresse ici, après tout, c'est le code. Seul les projets 4 et 5 sont disponibles sur Github.
 
 ## Et la suite ?
-Suite à cette formation j'ai exploré différentes techno, pour me faire un avis et j'ai choisis ensuite la voie de Symfony.
+Suite à cette formation j'ai exploré différentes techno, pour me faire un avis et j'ai choisis ensuite d'approfondir ma maîtrise de **Symfony**.
 
 ---
 
 ## Qu'est ce que j'utilise ?
-
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Zarwine&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- Most lang stats -->
+<a href="https://github.com/deepakjaiswal2018">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarwine&theme=dark&hide_langs_below=1" />
+</a>
+<!-- Profile highlights -->
+<a href="https://github.com/deepakjaiswal2018">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zarwine&show_icons=true&theme=dark&line_height=40" alt="Zarwine's github stats"/>
+</a>
 
 ---
-## J'aime les stats...
-
-![Zarwine's github stats](https://github-readme-stats.vercel.app/api?username=Zarwine&show_icons=true&theme=tokyonight)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Zarwine" alt="zarwine" /> </p>
+## Social
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Zarwine)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-guazzelli-34908718b/)
