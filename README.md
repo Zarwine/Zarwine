@@ -1,23 +1,26 @@
 # Bienvenue sur mon Github 👋
-Je m'appelle Jonathan, j'ai 30 ans et cela va faire plus d'un an maintenant que je me penche très sérieusement sur le développement web. En septembre l'an passé (2019), j'ai eu la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde ! 
-A vrai dire, j'envisageais déjà ma reconversion depuis longtemps, je n'en avais juste pas les moyens.
+Je m'appelle Jonathan, j'ai 30 ans et cela va faire plus d'un an maintenant que je me penche très sérieusement sur le développement web. En septembre 2019, j'ai eu la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde :smile:!
+
+J'envisageais déjà ma reconversion depuis longtemps, ce n'était juste pas possible.
 
 ---
 
 ## Mon parcours
-J'ai commencé avec une formation certifiante Développeur web niveau bac+2. Accompagné par un mentor, j'y ai appris les bases de la programmation et y ai réalisé 5 projets.
+J'ai commencé avec une formation certifiante Développeur web niveau bac+2. 
+
+Accompagné par un mentor, j'ai appris les bases de la programmation et réalisé 5 projets.
 <details>
-  <summary>Voir le détails des projets</summary>
+  <summary>Voir le détail des projets</summary>
 
 1. La webagency
 
-   Intégration **HTML et CSS** + **responsive** mise en ligne d'une page web. https://jogu.fr/webagency/index
+   Intégration **HTML et CSS responsive** + mise en ligne d'une page web. https://jogu.fr/webagency/index
 2. Ireki 
 
    Projet **Wordpress** avec personnalisation d'un thème enfant. Référencement naturel **SEO** ainsi que des bases en therme de sécurité. https://www.jogu.fr/ireki/
 3. Véloc 
 
-   Premier contact **Javascript en objet** et les **REGEX**. Requète **AJAX** et utilisation d'une **API** qui fournis des informations en direct. https://jogu.fr/veloc/index
+   Premier contact avec **Javascript en objet** et les **REGEX**. Requète **AJAX** et utilisation d'une **API** qui fournit des informations en direct. https://jogu.fr/veloc/index
 4. Un billet simple pour l'Alaska
 
    **archiecture MVC**, **PHP en objet** et requètes **SQL**. Mise en place d'un back-office privé avec un système de **CRUD** pour la gestion d'articles ainsi qu'une interface    **WYSIWYG**. Sécuriser un site internet ( **Faille XSS, CRLF, Bruteforce, Injection SQL ...** ). https://jogu.fr/forteroche/home
@@ -28,9 +31,9 @@ J'ai commencé avec une formation certifiante Développeur web niveau bac+2. Acc
 C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moche 😄 ! Mais n'oublions pas que ce sont mes premiers pas et ce qui nous intéresse ici, après tout, c'est le code. Seul les projets 4 et 5 sont disponibles sur Github.
 </details>
 
-Suite à cette formation j'ai exploré différentes technos pour me faire un avis.
+Suite à cette formation j'ai exploré d'autres environnements techniques pour me faire un avis.
 <details>
-  <summary>Afficher les technos</summary>
+  <summary>Afficher le contenu</summary>
    
 - Back-End -
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-lightgrey.svg)
@@ -42,7 +45,7 @@ Suite à cette formation j'ai exploré différentes technos pour me faire un avi
 - Frameworks -
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg)
 
-*Ces tags sont des technos pour lesquelles j'ai suivis des guides. Elles ne sont pas forcément maîtrisées.
+*Ces tags sont des technos pour lesquelles j'ai suivis des guides. Elles ne sont pas forcément maîtrisées.*
 
 </details>
 
