@@ -60,11 +60,11 @@ https://github.com/Zarwine/codrix
 
 ## Quelques stats 
 <!-- Most lang stats -->
-<a href="https://github.com/deepakjaiswal2018">
+<a href="https://github.com/Zarwine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarwine&theme=dark&hide_langs_below=1" />
 </a>
 <!-- Profile highlights -->
-<a href="https://github.com/deepakjaiswal2018">
+<a href="https://github.com/Zarwine">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zarwine&show_icons=true&theme=dark&line_height=40" alt="Zarwine's github stats"/>
 </a>
 
