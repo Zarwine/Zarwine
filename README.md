@@ -1,8 +1,6 @@
 # Bienvenue sur mon Github 👋
 Je m'appelle Jonathan, j'ai 30 ans et cela va faire plus d'un an maintenant que je me penche très sérieusement sur le développement web. En septembre 2019, j'ai eu la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde :smile:!
 
-J'envisageais déjà ma reconversion depuis longtemps, ce n'était juste pas possible.
-
 ---
 
 ## Mon parcours
