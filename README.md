@@ -5,7 +5,9 @@ A vrai dire, j'envisageais déjà ma reconversion depuis longtemps, je n'en avai
 ---
 
 ## Mon parcours
-J'ai donc attaqué avec une formation OpenClassrooms, c'était d'ailleurs la seule accessible. Accompagné par un mentor, j'y ai appris les bases de la programmation et y ai réalisé les projets suivant :
+J'ai commencé avec une formation certifiante Développeur web niveau bac+2. Accompagné par un mentor, j'y ai appris les bases de la programmation et y ai réalisé 5 projets.
+<details>
+  <summary>Voir le détails des projets</summary>
 
 1. La webagency
 
@@ -24,13 +26,36 @@ J'ai donc attaqué avec une formation OpenClassrooms, c'était d'ailleurs la seu
    Association en des connaissances acquises + création de fichier **JSON**, upload de fichier. https://jogu.fr/home 
 
 C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moche 😄 ! Mais n'oublions pas que ce sont mes premiers pas et ce qui nous intéresse ici, après tout, c'est le code. Seul les projets 4 et 5 sont disponibles sur Github.
+</details>
 
-## Et la suite ?
-Suite à cette formation j'ai exploré différentes techno, pour me faire un avis et j'ai choisis ensuite d'approfondir ma maîtrise de **Symfony**.
+Suite à cette formation j'ai exploré différentes technos pour me faire un avis.
+<details>
+  <summary>Afficher les technos</summary>
+   
+- Back-End -
+![PHPUnit](https://img.shields.io/badge/PHPUnit-lightgrey.svg)
+![NodeJs](https://img.shields.io/badge/NodeJS-green.svg)
+
+- Front-End -
+![VueJs](https://img.shields.io/badge/VueJs-orange.svg)
+
+- Frameworks -
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg)
+
+*Ces tags sont des technos pour lesquelles j'ai suivis des guides. Elles ne sont pas forcément maîtrisées.
+
+</details>
 
 ---
 
-## Qu'est ce que j'utilise ?
+## Aujourd'hui
+J'approfondis ma maîtrise de **Symfony**.
+Une fois le backend du projet Codrix terminé, je travaillerai la partie front avec **React**
+https://github.com/Zarwine/codrix
+
+---
+
+## Quelques stats 
 <!-- Most lang stats -->
 <a href="https://github.com/deepakjaiswal2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zarwine&theme=dark&hide_langs_below=1" />
