@@ -65,6 +65,7 @@ https://github.com/Zarwine/codrix
 <a href="https://github.com/Zarwine">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zarwine&show_icons=true&theme=dark&line_height=40" alt="Zarwine's github stats"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=Zarwine" alt="Zarwine" />
 
 ---
 ## Social
