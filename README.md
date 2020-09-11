@@ -1,7 +1,6 @@
 # Bienvenue sur mon Github 👋
 Je m'appelle Jonathan, j'ai 30 ans et je suis actuellement en train de me former au **développement full stack PHP**. En septembre 2019, j'ai eu la possibilité d'entreprendre une reconversion professionnelle : Je n'ai pas hésité une seconde :smile:!
 
----
 
 ## Mon parcours
 J'ai commencé avec une formation certifiante **Développeur web niveau bac+2**. 
@@ -21,7 +20,7 @@ Accompagné par un mentor, j'ai appris les bases de la programmation et réalis�
    Premier contact avec **JavaScript en objet** et les **REGEX**. Requête **AJAX** et utilisation d'une **API** qui fournit des informations en direct. https://jogu.fr/veloc/index
 4. Un billet simple pour l'Alaska
 
-   **Archiecture MVC**, **PHP en objet** et requètes **SQL**. Mise en place d'un back-office privé avec un système de **CRUD** pour la gestion d'articles ainsi qu'une interface    **WYSIWYG**. Sécuriser un site internet ( **Faille XSS, CRLF, Bruteforce, Injection SQL, etc.** ). https://jogu.fr/forteroche/home
+   **Archiecture MVC**, **PHP objet** et requêtes **SQL**. Mise en place d'un back-office privé avec un système de **CRUD** pour la gestion d'articles ainsi qu'une interface    **WYSIWYG**. Sécuriser un site internet ( **Faille XSS, CRLF, Bruteforce, Injection SQL, etc.** ). https://jogu.fr/forteroche/home
 5. Jogu, mon portfolio 
 
    Association des connaissances acquises + création de fichier **JSON**, upload de fichier. https://jogu.fr/home 
@@ -29,24 +28,38 @@ Accompagné par un mentor, j'ai appris les bases de la programmation et réalis�
 C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moche 😄 ! Mais n'oublions pas que ce sont mes premiers pas et ce qui nous intéresse ici, après tout, c'est le code. Seuls les projets 4 et 5 sont disponibles sur Github.
 </details>
 
-Stack technique :
-<details>
-  <summary>En cours d'édition ! </summary>
-   
+## Compétences :
+  <details>
+  <summary>Développer</summary>
+  
 - Back-End -
-![PHPUnit](https://img.shields.io/badge/PHPUnit-lightgrey.svg)
-![NodeJs](https://img.shields.io/badge/NodeJS-green.svg)
+![PHP](https://img.shields.io/badge/PHP-grey.svg)
 
 - Front-End -
-![VueJs](https://img.shields.io/badge/VueJs-orange.svg)
+![HTML5](https://img.shields.io/badge/HTML5-orange.svg)
+![CSS3](https://img.shields.io/badge/CSS3-informational.svg)
+![JavaScript](https://img.shields.io/badge/Javascript-yellow.svg)
+
+- Databases -
+![MYSQL](https://img.shields.io/badge/MySQL-blue.svg)
 
 - Frameworks -
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg)
+![Symfony](https://img.shields.io/badge/Symfony-black.svg)
 
+- CMS -
+![Wordpress](https://img.shields.io/badge/Wordpress-black.svg)
 
+- Tools -
+![Git](https://img.shields.io/badge/Git-orange.svg)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-grey.svg)
+
+- Operating system-
+![Windows](https://img.shields.io/badge/WINDOWS-blue.svg)
+
+- Agile Methodologies -
+![SCRUM](https://img.shields.io/badge/SCRUM-blue.svg)
 </details>
-
----
 
 ## Aujourd'hui
 J'approfondis ma maîtrise de **Symfony**.
