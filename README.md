@@ -53,6 +53,7 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 - Tools -
 ![Git](https://img.shields.io/badge/Git-orange.svg)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-grey.svg)
+![VSCode](https://img.shields.io/badge/VSCode-blue.svg)
 
 - Operating system-
 ![Windows](https://img.shields.io/badge/WINDOWS-blue.svg)
