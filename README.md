@@ -29,6 +29,15 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 </details>
 
 ## Compétences :
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" alt="PHP"></code>
+<code><img height="50" src="https://img.icons8.com/color/2x/javascript.png" alt="Javascript"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="HTML5"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="CSS3"></code>
+<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="MySQL"></code>
+
+<code><img height="50" src="https://symfony.com/images/logos/sf-positive.svg" alt="Symfony"></code>
+<code><img height="50" src="https://img.icons8.com/color/2x/wordpress.png" alt="Wordpress"></code>
+
   <details>
   <summary>Développer</summary>
   
@@ -50,10 +59,14 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 - CMS -
 ![Wordpress](https://img.shields.io/badge/Wordpress-black.svg)
 
+- Libraries -
+![Faker](https://img.shields.io/badge/Faker-black.svg)
+
 - Tools -
 ![Git](https://img.shields.io/badge/Git-orange.svg)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-grey.svg)
 ![VSCode](https://img.shields.io/badge/VSCode-blue.svg)
+![Doctrine](https://img.shields.io/badge/Doctrine-orange.svg)
 
 - Operating system-
 ![Windows](https://img.shields.io/badge/WINDOWS-blue.svg)
