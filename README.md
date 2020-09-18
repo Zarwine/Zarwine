@@ -37,6 +37,7 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 
 <code><img height="50" src="https://symfony.com/images/logos/sf-positive.svg" alt="Symfony"></code>
 <code><img height="50" src="https://img.icons8.com/color/2x/wordpress.png" alt="Wordpress"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/langfr-220px-Bootstrap_logo.svg.png" alt="Bootstrap"></code>
 
   <details>
   <summary>Développer</summary>
