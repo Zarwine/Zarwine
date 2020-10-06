@@ -77,9 +77,11 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 </details>
 
 ## Aujourd'hui
-J'approfondis ma maîtrise de **Symfony**.
-Une fois le backend du projet Codrix terminé, je travaillerai la partie front avec **React**
-https://github.com/Zarwine/codrix
+J'approfondis ma maîtrise de **Symfony** et **React**.
+Le projet Symfony étant terminé, je commence un nouveau projet utilisant **React**. 
+Une fois ce projet terminé, j'associerai mes connaissances pour créer un projet qui met en oeuvre les deux.
+Symfony - Codrix : https://github.com/Zarwine/codrix
+React - Reactiv : https://github.com/Zarwine/Reactiv
 
 ---
 
