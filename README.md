@@ -79,13 +79,23 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 ## Aujourd'hui
 J'approfondis ma maîtrise de **Symfony** et **React**.
 
-Le projet **Symfony** nommé Codrix étant terminé, je commence un nouveau projet utilisant **React** que j'ai nommé simplement : Reactiv. 
+Le projet **Symfony** nommé Codrix étant terminé, je commence une formation **React**. 
 
-Une fois ce projet terminé, j'associerai mes connaissances pour créer un projet qui met en oeuvre les deux.
+Symfony :
+- Codrix : https://github.com/Zarwine/codrix
+- Test Technique Symfony : https://github.com/Zarwine/TT-contact-form
+- Test Technique Symfony sans son noyau : https://github.com/Zarwine/Q-Test
 
-Symfony - Codrix : https://github.com/Zarwine/codrix
+PHP Unit :
+- PHP Unit Test Technique : https://github.com/Zarwine/PHP_Unit
 
-React - Reactiv : https://github.com/Zarwine/Reactiv
+API Platform :
+- API-Platform : https://github.com/Zarwine/API-Platform
+
+React :
+- Projet 1 - Markdown : https://github.com/Zarwine/Projet-1-Markdown
+- Projet 2 - ChatBox : https://github.com/Zarwine/Projet-2-chatBox
+- Projet 3 - Boite à recette : https://github.com/Zarwine/Projet-3-Ma-boite-a-recettes
 
 ---
 
