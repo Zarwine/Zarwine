@@ -29,11 +29,12 @@ C'est vrai qu'aujourd'hui, quand je regarde ces projets, je les trouve bien moch
 </details>
 
 ## Compétences :
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" alt="PHP"></code>
+
+<code><img height="50" src="https://github.com/Zarwine/Zarwine/blob/master/PHP-icon.jpg" alt="PHP"></code>
 <code><img height="50" src="https://img.icons8.com/color/2x/javascript.png" alt="Javascript"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="HTML5"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="CSS3"></code>
-<code><img height="50" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" alt="MySQL"></code>
+<code><img height="50" src="https://github.com/Zarwine/Zarwine/blob/master/html-kisspng-website-development-html5-logo-clip-art-world-wide-%D0%90%D0%BA%D0%B0%D0%B5%D0%B2-%D0%96%D1%83%D0%BC%D0%B3%D0%B0%D0%BB-%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-5b64f66ec84fa5.0253703715333433428205.jpg" alt="HTML5"></code>
+<code><img height="50" src="https://github.com/Zarwine/Zarwine/blob/master/CSS-kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f67bd3d6.3499284915344660385072.jpg" alt="CSS3"></code>
+<code><img height="50" src="https://github.com/Zarwine/Zarwine/blob/master/MySQL-1200px-MySQL.svg.png" alt="MySQL"></code>
 
 <code><img height="50" src="https://symfony.com/images/logos/sf-positive.svg" alt="Symfony"></code>
 <code><img height="50" src="https://img.icons8.com/color/2x/wordpress.png" alt="Wordpress"></code>
